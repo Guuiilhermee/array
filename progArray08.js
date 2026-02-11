@@ -1,3 +1,5 @@
+// Somar valores dentro de um array
+
 function somarValores(valores){
     let soma = 0
 
