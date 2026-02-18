@@ -11,4 +11,4 @@ do{
 }while(i < 5)
 
     media = soma / 5.0
-    console.log(`A média dos números no arry é: ${media.toFixed(3)}`)
+    console.log(`A média dos números no array é: ${media.toFixed(3)}`)
